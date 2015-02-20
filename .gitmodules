@@ -1,0 +1,6 @@
+[submodule "snanny-sostServer"]
+	path = snanny-sostServer
+	url = https://github.com/ifremer/snanny-sostServer.git
+[submodule "snanny-api"]
+	path = snanny-api
+	url = https://github.com/ifremer/snanny-api.git
